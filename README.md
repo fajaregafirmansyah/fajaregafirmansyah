@@ -5,7 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fajaregafirmansyah" alt="fajaregafirmansyah" /></a> </p>
 
-- 💬 Ask me about **dart**
+- 🔭 I’m work at **PT Neuronwork Indonesia**
+
+- 👯 I'm building a startup business **Muslim Studio Indonesia**
+
+- 🤝 I'm active on social media **YouTube, Instagram, TikTok, Facebook**
+
+- 📝 I regularly write articles on [https://medium.com/@fajaregafirmansyah](https://medium.com/@fajaregafirmansyah)
+
+- 💬 Ask me about **dart, flutter, UI/UX**
 
 - 📫 How to reach me **fajarega0@gmail.com**
 
