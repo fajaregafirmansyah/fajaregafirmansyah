@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@fajaregafirmansyah](https://medium.com/@fajaregafirmansyah)
 
-- 💬 Ask me about **dart, flutter, UI/UX**
+- 💬 Ask me about **research, flutter, UI/UX**
 
 - 📫 How to reach me **fajarega0@gmail.com**
 
