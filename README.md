@@ -7,7 +7,7 @@
 
 - 🔭 I’m work at **PT Neuronwork Indonesia**
 
-- 👯 I'm building a startup business **Muslim Studio Indonesia**
+- 👯 I'm building a startup business **Muslim Studio Indonesia, Fuix Creative Indonesia, Fajar Group Bussines (Coming Soon)**
 
 - 🤝 I'm active on social media **YouTube, Instagram, TikTok, Facebook**
 
