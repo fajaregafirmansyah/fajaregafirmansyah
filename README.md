@@ -9,7 +9,7 @@
 
 - 👯 I'm building a startup business **Muslim Studio Indonesia, Fuix Creative Indonesia, Fajar Group Bussines (Coming Soon)**
 
-- 🤝 I'm active on social media **YouTube, Instagram, TikTok, Facebook**
+- 🤝 I'm active on social media **YouTube, Instagram, TikTok**
 
 - 📝 I regularly write articles on [https://medium.com/@fajaregafirmansyah](https://medium.com/@fajaregafirmansyah)
 
